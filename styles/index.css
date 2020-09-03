@@ -1,0 +1,38 @@
+h1 {
+color:green;
+font-size: 40px; 
+font-weight: 300;
+font-style: italic;
+text-align: center;
+background-color: purple; 
+}
+
+.cat-section {
+    background-color: rgb(158, 12, 158
+    )
+
+
+}
+
+body {
+    background-image: url(/Images/bird.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
+    height: 200vh;
+    background:url(/images/bird.jpg), no-repeat, fixed, center, cover
+}
+
+img {
+    border-width: 5px;
+    border-color: red;
+    border-style: solid;
+    border: 5px, solid, red;
+    border-top: 5px solid green;
+    border-radius: 10px 10px 15px 20px;
+    box-shadow: 10px 10px 20px purple;
+
+
+
+}
